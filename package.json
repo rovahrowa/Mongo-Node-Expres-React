@@ -1,0 +1,22 @@
+{
+  "name": "mean-react-app",
+  "version": "1.0.0",
+  "description": "For Learning purposes of React Js With Node, Express and Mongo Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rovahrowa/Mongo-Node-Expres-React.git"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "Danstan Otieno Onyango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rovahrowa/Mongo-Node-Expres-React/issues"
+  },
+  "homepage": "https://github.com/rovahrowa/Mongo-Node-Expres-React#readme"
+}
