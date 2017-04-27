@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/rovahrowa/Mongo-Node-Expres-React/issues"
   },
-  "homepage": "https://github.com/rovahrowa/Mongo-Node-Expres-React#readme"
+  "homepage": "https://github.com/rovahrowa/Mongo-Node-Expres-React#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "passport": "^0.3.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
 }
